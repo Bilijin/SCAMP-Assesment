@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid19 Dashboard</string>
+    <string name="global_statistics">Global Statistics</string>
+    <string name="country_breakdown">Country Breakdown</string>
+    <string name="country">Country</string>
+    <string name="recorded_cases">Recorded Cases</string>
+    <string name="recoveries">Recoveries</string>
+    <string name="deaths">Deaths</string>
+    <string name="active_cases">Active Cases</string>
+    <string name="icon">A tune icon</string>
+    <string name="rank_cases_high">Rank Countries from highest to lowest cases</string>
+    <string name="rank_cases_low">Rank Countries from lowest to highest cases</string>
+    <string name="reset">Reset Order</string>
+</resources>
