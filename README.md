@@ -12,4 +12,6 @@ The application is a dashboard for corona virus.It shows current Corona Virus St
 <b> Link to walk through video</b>
 https://drive.google.com/file/d/11ofSGzgvkaY3IEGGiSG52ALBoB6q_3DJ/view?usp=drivesdk
 
-<image src="app/src/main/res/drawable/Screenshot_20210508_202552_com.mobolajia.whatsappdemo.jpg"/>
+<image src="app/src/main/res/drawable/screen1.jpg"/>
+<image src="app/src/main/res/drawable/screen2.jpg"/>
+<image src="app/src/main/res/drawable/screen3.jpg"/>
